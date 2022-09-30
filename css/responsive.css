@@ -1,0 +1,205 @@
+@media(max-width:1200px){
+	
+.whatitfor .whatitforinner h2{
+	text-align: center;
+	font-size: 32px;
+}
+.advantage .advantageinner ul li {
+    font-size: 1rem;
+    padding: 0px;
+}
+.advantage .idelinner ul li {
+    padding: 0 0 0.3125rem 1.875rem;
+}
+.feature h3 {
+    font-size: 28px;
+}
+.feature .beforeAfter,
+	.feature .beforeAfter img { 
+	height: calc( var(--height) / 1.5 );
+
+}
+
+.video {
+    padding: 30px 0px;
+}
+.video .videoinner h3 {
+    font-size: 28px;
+}
+.method {
+    padding: 30px 0px;
+}
+
+.method h3 {
+    font-size: 28px;
+}
+
+
+
+
+}
+@media (max-width: 992px){
+
+.product .title h1 {
+    font-size: 28px;
+}
+
+	.product .title h2 {
+    font-size: 22px;
+}
+.whatitfor .whatitforinner h2 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.whatitfor .whatitforinner ul li {
+    padding: 0 0 0 1.875rem;
+}
+.advantage {
+    padding: 30px 0px;
+    background: linear-gradient(360deg,#e4f3fb 50%,#fefbf9 54%);
+}
+.advantage h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.advantage .advantageinner{
+    width: 70%;
+    margin: 0 auto;
+}
+.advantage .idelinner
+{
+    width: 70%;
+    margin: 0 auto;
+    padding: 30px 0 0px 0;
+}
+.feature h3 {
+    font-size: 24px;
+}
+.video .videoinner h3 {
+    font-size: 24px;
+    font-weight: 500;
+}
+.video .videoinner .box a{
+	height: calc( var(--height) / 1.5 );
+}
+.method h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+}
+@media (max-width: 767px){
+
+
+.product {
+    padding:0px;
+}
+.product .title h1 {
+    font-size: 24px;
+}
+.product .title h2 {
+    font-size: 18px;
+}
+.product .media img {
+    max-width: 70%;
+}
+.product .media .but {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.whatitfor {
+    width: 100%;
+    padding: 20px 0;
+    background: #e4f3fb;
+}
+.whatitfor .whatitforinner {
+    width: 100%;
+}
+.advantage .advantageinner {
+    width: 100%;
+}
+.advantage .idelinner {
+    width: 100%;
+    padding: 20px 0 0px 0;
+}
+.advantage {
+    padding: 20px 0px;
+}
+.feature {
+    padding: 20px 0px;
+}
+.feature h3 {
+    font-size: 22px;
+}
+.feature .beforeAfter {
+    width: 100%;
+}
+.feature .beforeAfter,
+	.feature .beforeAfter img { 
+		height: calc( var(--height) / 1.8 );
+	}
+.video {
+    padding: 20px 0px;
+}
+.video .videoinner .box{
+	width: 100%;
+	}
+.video .videoinner .box a{
+	height: calc( var(--height) / 1.8 );
+}
+.video .videoinner h3 {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+.method {
+    padding: 20px 0px;
+    background: #e4f3fb ;
+}
+.method h3 {
+    font-size: 18px;
+    text-align: center;
+}
+.method .coverageinner {
+    padding: 20px 0px 0px;
+}
+.calculator {
+    padding: 20px 0;
+    background: #f2f5fa;
+}
+.calculator .calculatorinner {
+    width: 450px;
+}
+.calculator .btn3 {
+    width: 450px;
+}
+.pdf {
+    padding: 30px 0 20px;
+}
+
+.pdf .card {
+    width: 60%;
+    padding: 0px; 
+    justify-content: center;
+    height: 250px;
+    margin: 0px auto;
+    margin-bottom: 15px;
+}
+
+
+	}
+@media (max-width: 576px){
+
+	.calculator .calculatorinner {
+    width: 100%;
+}
+.calculator .btn3 {
+    width: 100%;
+}
+.pdf .card {
+    width: 80%;
+    padding: 0px;
+    justify-content: center;
+    height: 250px;
+    margin: 0px auto;
+    margin-bottom: 15px;
+}
+}
